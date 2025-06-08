@@ -21,7 +21,7 @@ This is a modern responsive website built for the Ethiopian Coffee Cafe. It incl
 
 ## 📷 Screenshots
 
-![Homepage Screenshot](images/screenshot.png)
+![Homepage Screenshot](https://raw.githubusercontent.com/Biratu35/portfolio-website/refs/heads/main/folder-name/Screenshot%202025-05-30%20100820.jpg)
 
 ## 📌 How to Use
 
