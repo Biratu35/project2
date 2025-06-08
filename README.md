@@ -4,7 +4,7 @@ This is a modern responsive website built for the Ethiopian Coffee Cafe. It incl
 
 ## 🌐 Live Demo
 
-[View on Netlify](https://yourprojectname.netlify.app)
+[View on Netlify](https://biratu-project2.netlify.app/)
 
 ## 🛠️ Features
 
